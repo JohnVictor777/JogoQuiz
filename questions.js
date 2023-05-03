@@ -1,6 +1,6 @@
 let questions = [
     {
-        question: 'Qual desses desenhos foi criado primeiro?',
+        question: '1 - Qual desses desenhos foi criado primeiro?',
         options: [
             'Mickey',
             'Popeye',
@@ -10,7 +10,7 @@ let questions = [
         answer: 1
     },
     {
-        question: 'Qual é o nome do cachorro do Cebolinha?',
+        question: '2 - Qual é o nome do cachorro do Cebolinha?',
         options: [
             'floquinho',
             'verdinho',
@@ -20,7 +20,7 @@ let questions = [
         answer: 0
     },
     {
-        question: 'Qual é o nome do dono do Snoopy?',
+        question: '3 - Qual é o nome do dono do Snoopy?',
         options: [
             'Jack Lee',
             'Charlie Brown',
@@ -30,7 +30,7 @@ let questions = [
         answer: 1
     },
     {
-        question: 'Qual é o nome do melhor amigo de Bart?',
+        question: '4 - Qual é o nome do melhor amigo de Bart?',
         options: [
             'Van Milhouse',
             'Ryan Van Black Houten',
@@ -40,7 +40,7 @@ let questions = [
         answer: 3
     },
     {
-        question: 'Quem é o melhor amigo de Gumball?',
+        question: '5 - Quem é o melhor amigo de Gumball?',
         options: [
             'Darwin',
             'Watterson',
@@ -50,7 +50,7 @@ let questions = [
         answer: 0
     },
     {
-        question: 'Em Coragem o cão covarde quem é Katz?',
+        question: '6 - Em Coragem o cão covarde quem é Katz?',
         options: [
             'Um cachorro',
             'O dono do Coragem',
@@ -60,7 +60,7 @@ let questions = [
         answer: 2
     },
     {
-        question: 'Em Pokémon, qual é o nome do dono do Pikachu?',
+        question: '7 - Em Pokémon, qual é o nome do dono do Pikachu?',
         options: [
             'Fuyuki',
             'Ash',
@@ -70,7 +70,7 @@ let questions = [
         answer: 1
     },
     {
-        question: 'Qual país criou o Irmão do Jorel?',
+        question: '8 - Qual país criou o Irmão do Jorel?',
         options: [
             'Espanha',
             'Estados Unidos',
@@ -80,7 +80,7 @@ let questions = [
         answer: 2
     },
     {
-        question: 'Quais os nomes dos 2 personagens principais que tem uma música de abertura que o nome é pegue o pombo?',
+        question: '9 - Quais os nomes dos 2 personagens principais que tem uma música de abertura que o nome é pegue o pombo?',
         options: [
             'Dick Vigarista e Muttley',
             'Dick Vigarista e Rank',
@@ -90,7 +90,7 @@ let questions = [
         answer: 0
     },
     {
-        question: 'Qual foi o primeiro desenho a ser exibido no brasil?',
+        question: '10 - Qual foi o primeiro desenho a ser exibido no brasil?',
         options: [
             'Popeye',
             'Mickey',
@@ -100,7 +100,7 @@ let questions = [
         answer: 2
     },
     {
-        question: 'Qual é o personagem mais rico dos desenhos animados?',
+        question: '11 - Qual é o personagem mais rico dos desenhos animados?',
         options: [
             'Bruce Wayne',
             'Smaug',
@@ -110,7 +110,7 @@ let questions = [
         answer: 3
     },
     {
-        question: 'O Scooby-doo é que grau parentesco do Scooby-loo?',
+        question: '12 - O Scooby-doo é que grau parentesco do Scooby-loo?',
         options: [
             'Ele é primo do Scooby-loo',
             'Ele é pai do Scooby-loo',
@@ -120,7 +120,7 @@ let questions = [
         answer: 2
     },
     {
-        question: 'Qual é o nome do gato preto que ajuda Coraline?',
+        question: '13 - Qual é o nome do gato preto que ajuda Coraline?',
         options: [
             'Conner',
             'Gato',
@@ -130,7 +130,7 @@ let questions = [
         answer: 1
     },
     {
-        question: 'Qual é o nome do principal vilão de Popeye?',
+        question: '14 - Qual é o nome do principal vilão de Popeye?',
         options: [
             'Brutus',
             'Rambo',
@@ -141,7 +141,7 @@ let questions = [
         answer: 0
     },
     {
-        question: 'Em qual cidade vivem Os Simpsons?',
+        question: '15 - Em qual cidade vivem Os Simpsons?',
         options: [
             'Valença',
             'Nova Iorque',
